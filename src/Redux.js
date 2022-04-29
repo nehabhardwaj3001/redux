@@ -3,13 +3,6 @@ import {createStore} from 'redux';
 
 function Redux(){
 
-// action
-// function action()  {
-//     return {
-//         type: "ATTACK",
-//         payload: "WAR"
-//     }
-// }
 
 // 2
 const reducer=  function(state, action) {
